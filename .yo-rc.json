@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Kitchen Chemistry for Kids of All Ages",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "aetherical",
+    "githubRepository": "kitchen-chemistry"
+  }
+}
