@@ -1,0 +1,1 @@
+![Hot!](images/hot.png)
